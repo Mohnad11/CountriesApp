@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="sort">Sort</string>
+    <string name="please_wait_task">please wait...</string>
+    <string name="sort_by_name">sort by name</string>
+    <string name="sort_by_area">sort by area</string>
+    <string name="ascending">ascending</string>
+    <string name="descending">descending</string>
+    <string name="border_bountries">Border Countries</string>
+</resources>
